@@ -26,7 +26,7 @@
 &lt;&#x2F;head&gt;
 &lt;body&gt;
     &lt;app&gt;
-        &lt;!--Blazor:{&quot;sequence&quot;:0,&quot;type&quot;:&quot;server&quot;,&quot;prerenderId&quot;:&quot;8174a76f408948eeb4ca3a536a28ac89&quot;,&quot;descriptor&quot;:&quot;CfDJ8Ao\u002Bvs\u002BLNrdMuC2tywVwHRvdGlq\u002B\u002BRYDt5cJd1ky4Ew\u002BAS9RZcDWPTg\u002BWE0ANm5iYVnAseY40M\u002BfcG6ZbJ7BX0QZb\u002B4eIbqEHwJi1fP5B6TO0lwguzhLHKDFxnrrLW\u002BOpKaCW2fR1MnXX&#x2F;GXpHLuAE3XMWwnOnWX4anpsxylHEEWBg53oEI\u002BTAw6gKSUg4XgDxVhhHC2J9FyFfxCkrHQnh3IH10MNXjzfTEh6r&#x2F;RwEBx6O5IS5713toEC\u002BcZ0SbNDg2fx3o98XD6Kt9aHgvewl4oYNuF0wWS4VAheqfucCSuE5MXq5fZAcG8Qf7qzFGQpHsylyuGpbMluasSD5VUVprMFyFl9eGBGRL2gPrgw6MH&quot;}--&gt;&lt;div class&#x3D;&quot;main&quot;&gt;&lt;div class&#x3D;&quot;content px-4&quot;&gt;&lt;h1 class&#x3D;&quot;text-danger&quot;&gt;Error.&lt;&#x2F;h1&gt;
+        &lt;!--Blazor:{&quot;sequence&quot;:0,&quot;type&quot;:&quot;server&quot;,&quot;prerenderId&quot;:&quot;b572a881ddb34d8496da520aa28621dd&quot;,&quot;descriptor&quot;:&quot;CfDJ8Ao\u002Bvs\u002BLNrdMuC2tywVwHRvgBBGCz75lbUe79t6\u002BWhL5sUFj9vFPuZFl68Qz2oseUa1NCKPoBjTDTivEyHEpPQXX5\u002BTY74Tn6ucm334xNYFqKA6JL7JUARKlqFcxbnbTnRdavGSOqQtvFWp1LPnjn&#x2F;YUPQ4IXw4JtOSz6a0m7HtfEit0xz85Wc&#x2F;1IKQfoVyigW&#x2F;OpJ74qJP203uE\u002BjqH0FQJlU&#x2F;H5VpU6EtEuVqbMjtSTM6hIrJ3Rw6gcs2jwWzUlrXm\u002Ba40aWxP9GtWkNGNrdQjDq&#x2F;5SNmUdQR0q&#x2F;5vpv&#x2F;Sr5TPj\u002BqtCryyTDHzaWZI6DrvqJP&#x2F;zu3ihgD2F5XzhDzcQaCqfkMv7iNYXiuXkhGz&quot;}--&gt;&lt;div class&#x3D;&quot;main&quot;&gt;&lt;div class&#x3D;&quot;content px-4&quot;&gt;&lt;h1 class&#x3D;&quot;text-danger&quot;&gt;Error.&lt;&#x2F;h1&gt;
 &lt;h2 class&#x3D;&quot;text-danger&quot;&gt;An error occurred while processing your request.&lt;&#x2F;h2&gt;
 
 &lt;h3&gt;Development Mode&lt;&#x2F;h3&gt;
@@ -37,7 +37,7 @@
     It can result in displaying sensitive information from exceptions to end users.
     For local debugging, enable the &lt;strong&gt;Development&lt;&#x2F;strong&gt; environment by setting the &lt;strong&gt;ASPNETCORE_ENVIRONMENT&lt;&#x2F;strong&gt; environment variable to &lt;strong&gt;Development&lt;&#x2F;strong&gt;
     and restarting the app.
-&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;!--Blazor:{&quot;prerenderId&quot;:&quot;8174a76f408948eeb4ca3a536a28ac89&quot;}--&gt;
+&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;!--Blazor:{&quot;prerenderId&quot;:&quot;b572a881ddb34d8496da520aa28621dd&quot;}--&gt;
     &lt;&#x2F;app&gt;
 
     &lt;div id&#x3D;&quot;blazor-error-ui&quot;&gt;
@@ -84,6 +84,56 @@ I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoti
 </p>
 <br /><br />
 
+<h3>Projects I Built/Help Build</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	  <td><a href="https://github.com/isaacrlevin/presencelight"><b>PresenceLight</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+	  <td><a href="https://github.com/isaacrlevin/GitHubStatTracker-Web"><b>GitHubStatTracker-Web</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+		<tr>
+			<td><a href="https://github.com/isaacrlevin/CraigslistSearch"><b>CraigslistSearch</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    		<tr>
+			<td><a href="https://github.com/isaacrlevin/LifxCloudClient"><b>LifxCloudClient</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        		<tr>
+			<td><a href="https://github.com/isaacrlevin/LifxCloudClient"><b>YahooFantasyWrapper</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 <div align="center">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrlevin&layout=default&hide=html" alt="isaacrlevin" />
@@ -95,4 +145,4 @@ I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoti
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 11:50 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 11:52 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
