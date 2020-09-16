@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - mastet
   schedule:
     - cron: '*/5 * * * *'
 
