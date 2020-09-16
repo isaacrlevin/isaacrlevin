@@ -13,13 +13,13 @@
     <h1>Hi 👋, I'm Isaac</h1>
     <h3>Senior Product Marketing Manager at Microsoft
     <br /><br />
-    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Available.ico" width="20" /> on Teams courtesy of PresenceLight
+    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Busy.ico" width="20" /> on Teams courtesy of PresenceLight
     </h3>
 
 
 Reach me @ [📫](mailto:isaac@isaaclevin.com)
 
-All of my projects are available at [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20"/>](https://www.twitch.tv/isaacrlevin)
+All of my projects are available at [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20"/>](https://github.com/isaacrlevin/isaacrlevin)
 
 I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0" width="20"/>](https://www.twitch.tv/isaacrlevin)
 
@@ -56,4 +56,4 @@ I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoti
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, September 15, 5:08 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, September 15, 5:18 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
