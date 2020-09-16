@@ -13,46 +13,7 @@
     <h1>Hi 👋, I'm Isaac</h1>
     <h3>Senior Product Marketing Manager at Microsoft
     <br /><br />
-    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/
-&lt;!DOCTYPE html&gt;
-&lt;html lang&#x3D;&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset&#x3D;&quot;utf-8&quot; &#x2F;&gt;
-    &lt;meta name&#x3D;&quot;viewport&quot; content&#x3D;&quot;width&#x3D;device-width, initial-scale&#x3D;1.0&quot; &#x2F;&gt;
-    &lt;title&gt;PresenceLight Worker Downloads&lt;&#x2F;title&gt;
-    &lt;base href&#x3D;&quot;&#x2F;&quot; &#x2F;&gt;
-    &lt;link rel&#x3D;&quot;stylesheet&quot; href&#x3D;&quot;css&#x2F;bootstrap&#x2F;bootstrap.min.css&quot; &#x2F;&gt;
-    &lt;link href&#x3D;&quot;css&#x2F;site.css&quot; rel&#x3D;&quot;stylesheet&quot; &#x2F;&gt;
-&lt;&#x2F;head&gt;
-&lt;body&gt;
-    &lt;app&gt;
-        &lt;!--Blazor:{&quot;sequence&quot;:0,&quot;type&quot;:&quot;server&quot;,&quot;prerenderId&quot;:&quot;32bc5749b3924260bb5b6d1cda0c2e2b&quot;,&quot;descriptor&quot;:&quot;CfDJ8Ao\u002Bvs\u002BLNrdMuC2tywVwHRvzhI3CfsVjkD8OIgjUZI1\u002BjUF\u002BbO7&#x2F;o3ImUpWlI1ptzngV78AkpfmGtidpZ7FUGeYWopmH5EiCC5nRP7TbRa083cE7CQhZwbKfFwzg5kRbVw1kShyWpMen4ikyvteVJ6qy5l7x3X\u002B2fXetnL6O8OPqSES7in2eJYfI9pDc5n44YXoODrSmCthage8GL4Hd3hv4BQvIuLd\u002BkePtqilsbG\u002BIGSIxN6w3g6WAOEfwbe5YRMCN0jFFSgPWSNaLE&#x2F;TLa4dH0FrAJZnPQQVq\u002BdlIOBjIIICZ8rd8IQhk8yLyizjRkpNMth3Gedy9mF9obV1NeIVI9MU4rEwM9Wmmp9lN4EUs&quot;}--&gt;&lt;div class&#x3D;&quot;main&quot;&gt;&lt;div class&#x3D;&quot;content px-4&quot;&gt;&lt;h1 class&#x3D;&quot;text-danger&quot;&gt;Error.&lt;&#x2F;h1&gt;
-&lt;h2 class&#x3D;&quot;text-danger&quot;&gt;An error occurred while processing your request.&lt;&#x2F;h2&gt;
-
-&lt;h3&gt;Development Mode&lt;&#x2F;h3&gt;
-&lt;p&gt;
-    Swapping to &lt;strong&gt;Development&lt;&#x2F;strong&gt; environment will display more detailed information about the error that occurred.
-&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;strong&gt;The Development environment shouldn&#39;t be enabled for deployed applications.&lt;&#x2F;strong&gt;
-    It can result in displaying sensitive information from exceptions to end users.
-    For local debugging, enable the &lt;strong&gt;Development&lt;&#x2F;strong&gt; environment by setting the &lt;strong&gt;ASPNETCORE_ENVIRONMENT&lt;&#x2F;strong&gt; environment variable to &lt;strong&gt;Development&lt;&#x2F;strong&gt;
-    and restarting the app.
-&lt;&#x2F;p&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;&lt;!--Blazor:{&quot;prerenderId&quot;:&quot;32bc5749b3924260bb5b6d1cda0c2e2b&quot;}--&gt;
-    &lt;&#x2F;app&gt;
-
-    &lt;div id&#x3D;&quot;blazor-error-ui&quot;&gt;
-        
-            An error has occurred. This application may no longer respond until reloaded.
-        
-        
-        &lt;a href&#x3D;&quot;&quot; class&#x3D;&quot;reload&quot;&gt;Reload&lt;&#x2F;a&gt;
-        &lt;a class&#x3D;&quot;dismiss&quot;&gt;🗙&lt;&#x2F;a&gt;
-    &lt;&#x2F;div&gt;
-
-    &lt;script src&#x3D;&quot;_framework&#x2F;blazor.server.js&quot;&gt;&lt;&#x2F;script&gt;
-&lt;&#x2F;body&gt;
-&lt;&#x2F;html&gt;
-.ico" width="20" /> on Teams courtesy of PresenceLight
+    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Available.ico" width="20" /> on Teams courtesy of PresenceLight
     </h3>
 
 Reach me @ [📫](mailto:isaac@isaaclevin.com)
@@ -144,4 +105,4 @@ I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoti
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 12:11 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 12:13 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
