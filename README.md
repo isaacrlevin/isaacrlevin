@@ -13,7 +13,7 @@
     <h1>Hi 👋, I'm Isaac</h1>
     <h3>Senior Product Marketing Manager at Microsoft
     <br /><br />
-    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Away.ico" width="20" /> on Teams courtesy of PresenceLight
+    Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Available.ico" width="20" /> on Teams courtesy of PresenceLight
     </h3>
 
 
@@ -56,4 +56,4 @@ I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoti
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 10:35 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, September 16, 10:42 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
