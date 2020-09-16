@@ -29,6 +29,10 @@ async function getPresence() {
 
       // called when the complete response is received.
       response.on('end', () => {
+        if (availability.length > 50)
+        {
+        availability = "Inactive";
+        }        
        DATA.availability= availability;
        fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
