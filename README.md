@@ -16,13 +16,13 @@
     Isaac is <img src="https://github.com/isaacrlevin/isaacrlevin/raw/main/static/Busy.ico" width="20" /> on Teams courtesy of PresenceLight
     </h3>
 
-Reach me - [📫](mailto:isaac@isaaclevin.com)
+Reach me @ [📫](mailto:isaac@isaaclevin.com)
 
-All of my projects - [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20"/>](https://github.com/isaacrlevin/isaacrlevin)
+All of my projects are available at [<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20"/>](https://github.com/isaacrlevin/isaacrlevin)
 
-I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0" width="20"/>](https://www.twitch.tv/isaacrlevin)
+I stream Open Source Interviews on [<img src="https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0" width="20"/>](https://www.twitch.tv/isaacrlevin)
 
- I regulary write articles - [📝](https://www.isaaclevin.com)
+ I regulary write articles on [📝](https://www.isaaclevin.com)
 </div>
 <br /><br />
 <p align="center">
@@ -64,11 +64,11 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-	  <td><a href="https://github.com/isaacrlevin/GitHubStatTracker"><b>GitHubStatTracker-Web</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/GitHubStatTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/GitHubStatTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/GitHubStatTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/GitHubStatTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/isaacrlevin/GitHubStatTracker-Web"><b>GitHubStatTracker-Web</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/GitHubStatTracker-Web?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/isaacrlevin/CraigslistSearch"><b>CraigslistSearch</b></a></td>
@@ -105,4 +105,4 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, October 12, 10:04 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, October 12, 10:15 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
