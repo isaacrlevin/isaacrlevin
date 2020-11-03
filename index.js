@@ -21,6 +21,7 @@ async function getPresence() {
   https
     .get(`${process.env.PiUrl}`, response => {
       let availability = '';
+      let divStyle = '';
 
       // called when a data chunk is received.
       response.on('data', chunk => {
@@ -32,8 +33,10 @@ async function getPresence() {
         if (availability.length > 50)
         {
         availability = "Inactive";
+        divStyle = "display: none;";
         }        
        DATA.availability= availability;
+        DATA.divStyle= divStyle;
        fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
