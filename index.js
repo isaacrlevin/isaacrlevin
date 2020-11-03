@@ -33,7 +33,7 @@ async function getPresence() {
         if (availability.length > 50)
         {
         availability = "Inactive";
-        divStyle = "display: none;";
+        divStyle = "hidden";
         }        
        DATA.availability= availability;
         DATA.divStyle= divStyle;
