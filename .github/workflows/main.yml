@@ -24,6 +24,10 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: Write-Output ${{ env }} 
+      - name: Run a script
         shell: powershell
+        run: |
+          $env = ${{ env }} 
+          $env.PSObject.Properties | ForEach-Object {
+            Write-Output "$_.Name : $_.Value" 
+          } 
