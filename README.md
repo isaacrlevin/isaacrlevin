@@ -87,7 +87,7 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
     </tr>
         		<tr>
-			<td><a href="https://github.com/isaacrlevin/LifxCloudClient"><b>YahooFantasyWrapper</b></a></td>
+			<td><a href="https://github.com/isaacrlevin/YahooFantasyWrapper"><b>YahooFantasyWrapper</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
@@ -107,4 +107,4 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, March 16, 4:41 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, March 16, 4:47 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
