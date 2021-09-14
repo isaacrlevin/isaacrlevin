@@ -13,11 +13,6 @@
     <h1>Hi 👋, I'm Isaac</h1>
     <h3>Principal Product Marketing Manager at Elastic
     <br /><br />
-    <span >
-       Isaac is <img src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/404 page not found
-.ico" alt="404 page not found
-" width="20" /> on Teams courtesy of PresenceLight     
-    </span>
     </h3>
 
 Reach me - [📫](mailto:isaac@isaaclevin.com)
@@ -109,4 +104,4 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, September 14, 1:33 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Tuesday, September 14, 1:36 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
