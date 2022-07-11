@@ -11,7 +11,7 @@
         </a>
     </div>
     <h1>Hi 👋, I'm Isaac</h1>
-    <h3>Principal Product Marketing Manager at Elastic
+    <h3>.NET Developer Advocate @ Amazon Web Services
     <br /><br />
     </h3>
 
