@@ -9,9 +9,8 @@
     .NET Developer Advocate @ <img src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png" alt="aws" height="20" />
   </h3>
 </div>
-<br /><br />
 <div align="center">
-  <h5>Reach out to me below!</h5>
+  <h4>Reach out to me below!</h4>
   <a href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
   </a>
@@ -38,7 +37,8 @@
   </a>
 </div>
 <br /><br />
-<p align="center">
+<div align="center">
+  <h4>Technologies I am intersted in</h4>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dotnet-bot.svg" alt="dotnet" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="vuejs" width="40" height="40" />
-</p>
+</div>
 <br /><br />
 
 <h3>Projects I Built/Help Build</h3>
@@ -117,4 +117,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 10:29 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 10:31 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
