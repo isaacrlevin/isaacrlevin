@@ -92,7 +92,7 @@
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/kubernetes">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/dotnet/html5">
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/html5/white">
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/html5">
   </picture>
   <picture>
@@ -187,4 +187,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:45 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:47 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
