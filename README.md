@@ -16,28 +16,52 @@
 <div align="center">
   <h4>Reach out to me below!</h4>
   <a href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/github/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github">
+    </picture>
   </a>
   <a href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/linkedin/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/linkedin">
+    </picture>
   </a>
   <a href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitter/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/twitter">
+    </picture>
   </a>
   <a href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/instagram/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/instagram">
+    </picture>
   </a>
   <a href="https://www.tiktok.com/@isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/tiktok/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/tiktok">
+    </picture>
   </a>
   <a href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/maildotru/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/maildotru">
+    </picture>
   </a>
   <a href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/youtube/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/youtube">
+    </picture>
   </a>
   <a href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitch/white">
+      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/twitch">
+    </picture>
   </a>
 </div>
 <br /><br />
@@ -121,4 +145,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:12 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:19 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
