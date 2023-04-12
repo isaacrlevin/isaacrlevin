@@ -3,12 +3,12 @@
         <img src="https://komarev.com/ghpvc/?username=isaacrlevin" alt="isaacrlevin" />
     </p>
     <h1>Hi 👋, I'm <a href="https://www.isaaclevin.com" rel="me noopener noreffer" target="_blank">Isaac Levin</a></h1>
-    <h3>.NET Developer Advocate @ <img src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png" alt="aws" height="40" />
+    <h3>.NET Developer Advocate @ <img src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png" alt="aws" height="20" />
     <br /><br />
     </h3>
 </div>
 <br /><br />
-<p align="center">
+<div align="center">
 <h5>Reach out to me below!</h5>
 <a href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" /></a>
 <a href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
@@ -18,7 +18,7 @@
 <a href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/maildotru.svg" /></a>
 <a href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" /></a>
 <a href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitch.svg" /></a>
-</p>
+</div>
 <br /><br />
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dotnet-bot.svg" alt="dotnet" width="40" height="40" />
@@ -99,4 +99,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 10:20 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 10:26 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
