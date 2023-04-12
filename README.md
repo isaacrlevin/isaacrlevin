@@ -67,20 +67,62 @@
 <br /><br />
 <div align="center">
   <h4>Technologies I am intersted in</h4>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dotnet-bot.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="vuejs" width="40" height="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/dotnet/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/dotnet">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/csharp/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/csharp">
+  </picture> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/git/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/git">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/gnubash/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/gnubash">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/docker/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/docker">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/kubernetes/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/kubernetes">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/dotnet/html5">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/html5">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/bootstrap/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/bootstrap">
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/javascript/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/javascript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/nodedotjs/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/nodedotjs">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/typescript/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/typescript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/vuedotjs/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/vuedotjs">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/angular/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/angular">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/python/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/python">
+  </picture>
 </div>
 <br /><br />
 
@@ -145,4 +187,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:40 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:45 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
