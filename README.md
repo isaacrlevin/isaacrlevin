@@ -26,7 +26,7 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
 <br /><br />
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dotnet-bot.svg" alt="dotnet" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png" alt="aws" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
@@ -104,4 +104,4 @@ I stream Open Source Interviews - [<img src="https://static-cdn.jtvnw.net/emotic
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 9:49 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 9:51 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
