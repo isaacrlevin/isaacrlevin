@@ -8,8 +8,8 @@
   <h3>
     .NET Developer Advocate @ 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB_BLK.png">
-      <img alt="Shows correct AWS logo depending on dark or light mode." src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png">
+      <source media="(prefers-color-scheme: dark)" height="20" srcset="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png">
+      <img height="20" alt="Shows correct AWS logo depending on dark or light mode." src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB_BLK.png">
     </picture>    
     </h3>
 </div>
@@ -121,4 +121,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:04 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Wednesday, April 12, 1:08 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
