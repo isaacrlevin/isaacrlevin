@@ -24,43 +24,49 @@
   <a href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/linkedin">
+      <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin">
     </picture>
   </a>
   <a href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitter/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/twitter">
+      <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/twitter">
     </picture>
   </a>
   <a href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/instagram/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/instagram">
+      <img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram">
     </picture>
   </a>
   <a href="https://www.tiktok.com/@isaacrlevin/" target="_blank" rel="me noopener noreffer">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/tiktok/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/tiktok">
+      <img height="40" width="40" alt="TikTok" src="https://cdn.simpleicons.org/tiktok">
     </picture>
   </a>
   <a href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/maildotru/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/maildotru">
+      <img height="40" width="40" alt="Email" src="https://cdn.simpleicons.org/maildotru">
     </picture>
   </a>
   <a href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/youtube/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/youtube">
+      <img height="40" width="40" alt="YouTube" src="https://cdn.simpleicons.org/youtube">
     </picture>
   </a>
   <a href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitch/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/twitch">
+      <img height="40" width="40" alt="Twitch" src="https://cdn.simpleicons.org/twitch">
+    </picture>
+  </a>
+  <a href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/mastodon/white">
+      <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon">
     </picture>
   </a>
 </div>
@@ -187,4 +193,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, April 24, 1:45 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, April 24, 2:03 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
