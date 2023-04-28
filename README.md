@@ -6,11 +6,7 @@
     Hi 👋, I'm <a href="https://www.isaaclevin.com" rel="me noopener noreffer" target="_blank">Isaac Levin</a>
   </h1>
   <h3>
-    .NET Developer Advocate @ 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="20" srcset="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB_WHT.png">
-      <img height="20" alt="Shows correct AWS logo depending on dark or light mode." src="https://raw.githubusercontent.com/isaacrlevin/isaacrlevin/master/static/AWS_logo_RGB.png">
-    </picture>    
+    .NET Developer Advocate and Microsoft MVP
     </h3>
 </div>
 <div align="center">
@@ -193,4 +189,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Thursday, April 27, 8:57 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Thursday, April 27, 9:05 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
