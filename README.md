@@ -180,7 +180,7 @@
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrlevin&layout=default&hide=html" alt="isaacrlevin" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacrlevin" alt="isaacrlevin" />
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=isaacrlevin&show_icons=true" alt="isaacrlevin" />
@@ -189,4 +189,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Thursday, July 20, 12:22 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Thursday, July 20, 12:29 PM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
