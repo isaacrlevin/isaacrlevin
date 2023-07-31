@@ -12,119 +12,50 @@
 <div align="center">
   <h4>Reach out to me below!</h4>
   <a href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/github/white">
-      <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github">
-    </picture>
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white">
   </a>
   <a href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin">
-    </picture>
+    <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/_/white">
   </a>
   <a href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitter/white">
-      <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/twitter">
-    </picture>
+    <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/twitter/_/white">
   </a>
   <a href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/instagram/white">
-      <img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram">
-    </picture>
+    <img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram/_/white">
   </a>
   <a href="https://www.tiktok.com/@isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/tiktok/white">
-      <img height="40" width="40" alt="TikTok" src="https://cdn.simpleicons.org/tiktok">
-    </picture>
+    <img height="40" width="40" alt="TikTok" src="https://cdn.simpleicons.org/tiktok/_/white">
   </a>
   <a href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/maildotru/white">
-      <img height="40" width="40" alt="Email" src="https://cdn.simpleicons.org/maildotru">
-    </picture>
+    <img height="40" width="40" alt="Email" src="https://cdn.simpleicons.org/maildotru/_/white">
   </a>
-  <a href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/youtube/white">
-      <img height="40" width="40" alt="YouTube" src="https://cdn.simpleicons.org/youtube">
-    </picture>
+  <a href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank">    
+    <img height="40" width="40" alt="YouTube" src="https://cdn.simpleicons.org/youtube/_/white">
   </a>
-  <a href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/twitch/white">
-      <img height="40" width="40" alt="Twitch" src="https://cdn.simpleicons.org/twitch">
-    </picture>
+  <a href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank">    
+    <img height="40" width="40" alt="Twitch" src="https://cdn.simpleicons.org/twitch/_/white">
   </a>
-  <a href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/mastodon/white">
-      <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon">
-    </picture>
+  <a href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank">    
+    <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon/_/white">
   </a>
 </div>
 <br /><br />
 <div align="center">
-  <h4>Technologies I am intersted in</h4>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/dotnet/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/dotnet">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/csharp/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/csharp">
-  </picture> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/git/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/git">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/gnubash/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/gnubash">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/docker/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/docker">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/kubernetes/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/kubernetes">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/html5/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/html5">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/bootstrap/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/bootstrap">
-  </picture>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/javascript/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/javascript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/nodedotjs/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/nodedotjs">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/typescript/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/typescript">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/vuedotjs/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/vuedotjs">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/angular/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/angular">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://cdn.simpleicons.org/python/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/python">
-  </picture>
+  <h4>Technologies I am intersted in</h4>  
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/dotnet/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/csharp/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/git/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/gnubash/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/docker/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/kubernetes/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/html5/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/bootstrap/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/javascript/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/nodedotjs/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/typescript/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/vuedotjs/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/angular/_/white">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/python/_/white">
 </div>
 <br /><br />
 
@@ -189,4 +120,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, July 31, 11:55 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 5 minutes</b>!</br>Last refresh: Monday, July 31, 11:57 AM PDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
