@@ -18,7 +18,7 @@
     <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/_/white">
   </a>
   <a href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/twitter/_/white">
+    <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/x/_/white">
   </a>
   <a href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer">
     <img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram/_/white">
@@ -38,12 +38,14 @@
   <a href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank">    
     <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon/_/white">
   </a>
+    <a href="https://bsky.app/profile/isaaclevin.com" rel="me noopener noreffer" target="_blank">    
+    <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/bluesky/_/white">
+  </a>
 </div>
 <br /><br />
 <div align="center">
   <h4>Technologies I am intersted in</h4>  
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/dotnet/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/csharp/_/white">
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/git/_/white">
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/gnubash/_/white">
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/docker/_/white">
@@ -72,11 +74,18 @@
   </thead>
   <tbody>
     <tr>
-	  <td><a href="https://github.com/isaacrlevin/presencelight"><b>PresenceLight</b></a></td>
+	    <td><a href="https://github.com/isaacrlevin/presencelight"><b>PresenceLight</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/presencelight?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+			<td><a href="https://github.com/isaacrlevin/FangraphsClubControlExtension"><b>FangraphsClubControlExtension</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/FangraphsClubControlExtension?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/YahooFFangraphsClubControlExtensionantasyWrapper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/FangraphsClubControlExtension?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FangraphsClubControlExtension/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
 	  <td><a href="https://github.com/isaacrlevin/GitHubStatTracker"><b>GitHubStatTracker</b></a></td>
@@ -92,14 +101,14 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/CraigslistSearch?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    		<tr>
+  	<tr>
 			<td><a href="https://github.com/isaacrlevin/LifxCloudClient"><b>LifxCloudClient</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isaacrlevin/LifxCloudClient?style=flat-square&labelColor=343b41"/></td>
     </tr>
-        		<tr>
+  	<tr>
 			<td><a href="https://github.com/isaacrlevin/YahooFantasyWrapper"><b>YahooFantasyWrapper</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/isaacrlevin/YahooFantasyWrapper?style=flat-square&labelColor=343b41"/></td>
@@ -120,4 +129,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Sunday, November 17, 5:33 AM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Sunday, November 17, 5:34 AM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
