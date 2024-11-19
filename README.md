@@ -11,15 +11,9 @@
 </div>
 <div align="center">
   <h4>Reach out to me below!</h4>
-<a href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-    <foreignObject x="0" y="0" width="40" height="40">
-      <body xmlns="http://www.w3.org/1999/xhtml">
-        <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white"/>
-      </body>
-    </foreignObject>
-</svg>
-</a>
+  <a style="text-decoration: none; color: inherit;" href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
+    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white">
+  </a>
   <a style="text-decoration: none; color: inherit;" href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
     <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/_/white">
   </a>
@@ -135,4 +129,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Tuesday, November 19, 12:01 PM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Tuesday, November 19, 12:10 PM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
