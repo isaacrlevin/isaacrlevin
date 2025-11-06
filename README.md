@@ -15,7 +15,7 @@
     <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white">
   </a>
   <a style="text-decoration: none; color: inherit;" href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/_/white">
+    <img height="40" width="40" alt="LinkedIn" src="https://www.coffeeandopensource.com/images/linkedin.png">
   </a>
   <a style="text-decoration: none; color: inherit;" href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
     <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/x/_/white">
@@ -129,4 +129,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Wednesday, November 5, 4:02 PM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Wednesday, November 5, 4:16 PM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
