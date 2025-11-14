@@ -6,7 +6,7 @@
     Hi 👋, I'm <a href="https://www.isaaclevin.com" rel="me noopener noreffer" target="_blank">Isaac Levin</a>
   </h1>
   <h3>
-    .NET Developer Advocate and Microsoft MVP
+    .NET Developer Advocate and Microsoft MVP @ Update Conference
     </h3>
 </div>
 <div align="center">
