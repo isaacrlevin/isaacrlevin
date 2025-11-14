@@ -6,7 +6,7 @@
     Hi 👋, I'm <a href="https://www.isaaclevin.com" rel="me noopener noreffer" target="_blank">Isaac Levin</a>
   </h1>
   <h3>
-    .NET Developer Advocate and Microsoft MVP @ Update Conference
+    .NET Developer Advocate and Microsoft MVP
     </h3>
 </div>
 <div align="center">
@@ -129,4 +129,4 @@
 </div>
 <br /><br />
 <br /><br />
-<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Friday, November 14, 3:31 AM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 30 minutes</b>!</br>Last refresh: Friday, November 14, 3:43 AM PST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
