@@ -11,53 +11,33 @@
 </div>
 <div align="center">
   <h4>Reach out to me below!</h4>
-  <a style="text-decoration: none; color: inherit;" href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="LinkedIn" src="https://www.coffeeandopensource.com/images/linkedin.png">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/x/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://www.tiktok.com/@isaacrlevin/" target="_blank" rel="me noopener noreffer">
-    <img height="40" width="40" alt="TikTok" src="https://cdn.simpleicons.org/tiktok/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer">
-    <img height="40" width="40" alt="Email" src="https://cdn.simpleicons.org/maildotru/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank">    
-    <img height="40" width="40" alt="YouTube" src="https://cdn.simpleicons.org/youtube/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank">    
-    <img height="40" width="40" alt="Twitch" src="https://cdn.simpleicons.org/twitch/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank">    
-    <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon/_/white">
-  </a>
-  <a style="text-decoration: none; color: inherit;" href="https://bsky.app/profile/isaaclevin.com" rel="me noopener noreffer" target="_blank">    
-    <img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/bluesky/_/white">
-  </a>
+  <a style="text-decoration: none; color: inherit;" href="https://github.com/isaacrlevin" target="_blank" rel="me noopener noreffer"><img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/github/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://linkedin.com/in/isaacrobinlevin" target="_blank" rel="me noopener noreffer"><img height="40" width="40" alt="LinkedIn" src="https://www.coffeeandopensource.com/images/linkedin.png"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://twitter.com/isaacrlevin" target="_blank" rel="me noopener noreffer"><img height="40" width="40" alt="Twitter" src="https://cdn.simpleicons.org/x/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://www.instagram.com/isaacrlevin/" target="_blank" rel="me noopener noreffer"><img height="40" width="40" alt="Instagram" src="https://cdn.simpleicons.org/instagram/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://www.tiktok.com/@isaacrlevin/" target="_blank" rel="me noopener noreffer"><img height="40" width="40" alt="TikTok" src="https://cdn.simpleicons.org/tiktok/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="mailto:isaac@isaaclevin.com" rel="me noopener noreffer"><img height="40" width="40" alt="Email" src="https://cdn.simpleicons.org/maildotru/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://www.youtube.com/@isaacrlevin" rel="me noopener noreffer" target="_blank"><img height="40" width="40" alt="YouTube" src="https://cdn.simpleicons.org/youtube/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://www.twitch.tv/isaacrlevin" rel="me noopener noreffer" target="_blank"><img height="40" width="40" alt="Twitch" src="https://cdn.simpleicons.org/twitch/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://fosstodon.org/@isaacrlevin" rel="me noopener noreffer" target="_blank"><img height="40" width="40" alt="Mastodon" src="https://cdn.simpleicons.org/mastodon/_/white"></a>
+  <a style="text-decoration: none; color: inherit;" href="https://bsky.app/profile/isaaclevin.com" rel="me noopener noreffer" target="_blank"><img height="40" width="40" alt="Bluesky" src="https://cdn.simpleicons.org/bluesky/_/white"></a>
 </div>
 <br /><br />
 <div align="center">
-  <h4>Technologies I am intersted in</h4>  
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/dotnet/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/git/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/gnubash/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/docker/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/kubernetes/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/html5/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/bootstrap/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/javascript/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/nodedotjs/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/typescript/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/vuedotjs/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/angular/_/white">
-    <img height="40" width="40" alt="GitHub" src="https://cdn.simpleicons.org/python/_/white">
+  <h4>Technologies I am intersted in</h4>
+  <img height="40" width="40" alt="dotnet" src="https://cdn.simpleicons.org/dotnet/_/white">
+  <img height="40" width="40" alt="git" src="https://cdn.simpleicons.org/git/_/white">
+  <img height="40" width="40" alt="bash" src="https://cdn.simpleicons.org/gnubash/_/white">
+  <img height="40" width="40" alt="docker" src="https://cdn.simpleicons.org/docker/_/white">
+  <img height="40" width="40" alt="kubernetes" src="https://cdn.simpleicons.org/kubernetes/_/white">
+  <img height="40" width="40" alt="html5" src="https://cdn.simpleicons.org/html5/_/white">
+  <img height="40" width="40" alt="bootstrap" src="https://cdn.simpleicons.org/bootstrap/_/white">
+  <img height="40" width="40" alt="javascript" src="https://cdn.simpleicons.org/javascript/_/white">
+  <img height="40" width="40" alt="nodejs" src="https://cdn.simpleicons.org/nodedotjs/_/white">
+  <img height="40" width="40" alt="typescript" src="https://cdn.simpleicons.org/typescript/_/white">
+  <img height="40" width="40" alt="vue" src="https://cdn.simpleicons.org/vuedotjs/_/white">
+  <img height="40" width="40" alt="angular" src="https://cdn.simpleicons.org/angular/_/white">
+  <img height="40" width="40" alt="python" src="https://cdn.simpleicons.org/python/_/white">
 </div>
 <br /><br />
 
